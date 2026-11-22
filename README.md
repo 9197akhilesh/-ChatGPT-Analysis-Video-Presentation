@@ -77,7 +77,7 @@ The notebook creates charts for:
 
 ## Run the notebook
 
-1. Open [ChatGPT_Reviews_Analysis.ipynb in Google Colab](https://colab.research.google.com/drive/1G24HLmDR5zRm0e3wU6t2eCO9W35YoOjV?usp=sharing#scrollTo=LkNXN8Wnf_zF & https://colab.research.google.com/drive/18EaBAgBiX7PDr51yPZBskeCMWN1sp3WU#scrollTo=i1e3ykBfd7bA)
+1. Open [ChatGPT_Reviews_Analysis.ipynb in Google Colab](https://colab.research.google.com/drive/1tXhYcgFSHpm8Uaa_JThFAyDmZJK3Dr3y & https://colab.research.google.com/drive/18EaBAgBiX7PDr51yPZBskeCMWN1sp3WU#scrollTo=i1e3ykBfd7bA)
 2. Run the notebook cells from top to bottom.
 3. Review the tables and charts, then use the findings in the project demo.
 
